@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
 <p align="center">Full-stack dev | Student | Builder</p>
 <p align="center">
-  <img src="[https://dummyimage.com/.../text=YourName](https://i.pinimg.com/1200x/7a/cc/32/7acc328ebcc710fc2e11add0491167c8.jpg)" />
+  <img src="https://i.pinimg.com/1200x/7a/cc/32/7acc328ebcc710fc2e11add0491167c8.jpg" />
 </p>
 
 <!--
