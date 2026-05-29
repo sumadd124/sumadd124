@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/d6/9b/51/d69b510eb7073830010370297635dc5f.jpg" width="500" height
-  ="300" />
+  <img src="https://i.pinimg.com/1200x/d6/9b/51/d69b510eb7073830010370297635dc5f.jpg" width="600" height
+  ="100" />
 </p>
 <h2 align="center">Full-stack dev | Student | Builder</h2>
 
