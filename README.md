@@ -5,7 +5,7 @@
 </p>
 <p align="center">Full-stack dev | Student | Builder</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumadd124E&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=sumadd124&show_icons=true&theme=tokyonight" />
 <img src="https://streak-stats.demolab.com?user=sumadd124E&theme=dark" />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
