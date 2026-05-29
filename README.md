@@ -5,8 +5,8 @@
 <p align="center">Full-stack dev | Student | Builder</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumadd124&show_icons=true&theme=tokyonight" width="300" height
-  ="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumadd124&show_icons=true&theme=tokyonight" width="200" height
+  ="100" />
 </p>
 
 <p align="center">
