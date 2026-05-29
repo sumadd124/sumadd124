@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.pinimg.com/1200x/7a/cc/32/7acc328ebcc710fc2e11add0491167c8.jpg](https://i.pinimg.com/1200x/5f/22/fd/5f22fdffebbf623e7941cc4d297551a8.jpg)" />
+  <img src="https://i.pinimg.com/1200x/5f/22/fd/5f22fdffebbf623e7941cc4d297551a8.jpg" />
 </p>
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
