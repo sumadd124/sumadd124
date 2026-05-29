@@ -1,4 +1,6 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm YourName</h1>
+<p align="center">Full-stack dev | Student | Builder</p>
 
 <!--
 **sumadd124/sumadd124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
