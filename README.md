@@ -3,7 +3,13 @@
 <p align="center">
   <img src="https://i.pinimg.com/1200x/d6/9b/51/d69b510eb7073830010370297635dc5f.jpg" />
 </p>
-### Full-stack dev | Student | Builder
+<p align="center">Full-stack dev | Student | Builder</p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sumadd124E&show_icons=true&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=sumadd124E&theme=dark" />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 
 <!--
 **sumadd124/sumadd124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
