@@ -1,9 +1,9 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
-<p align="center">Full-stack dev | Student | Builder</p>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/7a/cc/32/7acc328ebcc710fc2e11add0491167c8.jpg" />
 </p>
+## Hi there 👋
+<h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
+<p align="center">Full-stack dev | Student | Builder</p>
 
 <!--
 **sumadd124/sumadd124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
