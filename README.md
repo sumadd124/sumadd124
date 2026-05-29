@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="centre" Hi there 👋</h1>
 <h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
 <p align="center">
   <img src="https://i.pinimg.com/1200x/d6/9b/51/d69b510eb7073830010370297635dc5f.jpg" />
