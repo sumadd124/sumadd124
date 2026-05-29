@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm YourName</h1>
+<h1 align="center">Hi 👋, I'm Addepalli Sumadyuti</h1>
 <p align="center">Full-stack dev | Student | Builder</p>
 
 <!--
