@@ -5,8 +5,13 @@
 </p>
 <p align="center">Full-stack dev | Student | Builder</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sumadd124&show_icons=true&theme=tokyonight" />
-<img src="https://streak-stats.demolab.com?user=sumadd124E&theme=dark" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sumadd124&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sumadd124&theme=dark" />
+</p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
